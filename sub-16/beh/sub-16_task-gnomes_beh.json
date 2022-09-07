@@ -1,0 +1,44 @@
+{
+  "trial": {
+    "Description": "Trial number (integer)"
+  },
+  "condition": {
+    "Description": "Condition number (integer) - see README for details"
+  },
+  "image": {
+    "Description": "Image number (integer) - see /code/task/images for images"
+  },
+  "target": {
+    "Description": "Target level - the animated bar will rise to this height (proportion)"
+  },
+  "fixationTime": {
+    "Description": "Fixation cross duration (seconds)"
+  },
+  "rtStart": {
+    "Description": "Start of response period (seconds relative to trial start)"
+  },
+  "rtEnd": {
+    "Description": "Response time (seconds relative to trial start)"
+  },
+  "rt": {
+    "Description": "Response time (seconds)"
+  },
+  "responseX": {
+    "Description": "Horizontal response location (pixels)"
+  },
+  "responseY": {
+    "Description": "Vertical response location (pixels)"
+  },
+  "responseProp": {
+    "Description": "Response (proportion of bar height)"
+  },
+  "pointsThisRound": {
+    "Description": "Points for this trial (integer)"
+  },
+  "pointsTotal": {
+    "Description": "Total points (integer)"
+  },
+  "preFeedbackTime": {
+    "Description": "Delay before feedback onset (seconds)"
+  }
+}
