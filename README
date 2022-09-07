@@ -5,7 +5,7 @@ Twenty-one participants learned to predict the final level of an animated rising
 Conditions (Gnome Types)  
 1: consistently low  
 2: consistently high  
-3: low or high with 50% probability  
+3: low or high with equal probability  
 4: usually (80%) low, sometimes high  
 5: usually (80%) high, sometimes low  
 6: random uniform height  
