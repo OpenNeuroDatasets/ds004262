@@ -8,7 +8,7 @@ Conditions (Gnome Types)
 3: low or high with equal probability  
 4: usually (80%) low, sometimes high  
 5: usually (80%) high, sometimes low  
-6: random uniform height  
+6: random uniform distribution  
 
 Trigger Modifiers  
 Add 0: Fixation cross  
