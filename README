@@ -6,12 +6,12 @@ Timing
 fixation cross (400-600 ms) -> gnome cue (1500 ms) -> bar outline (until response) -> animation (1 degree per second until complete) -> final outcome (1000 ms)
 
 Conditions (Gnome Types)  
-1: consistently low  
-2: consistently high  
-3: low or high with equal probability  
-4: usually (80%) low, sometimes high  
-5: usually (80%) high, sometimes low  
-6: random uniform distribution  
+1: highly predictable - consistently low  
+2: highly predictable - consistently high  
+3: unpredictable - low or high with equal probability  
+4: somewhat predictable - usually (80%) low, sometimes high  
+5: somewhat predictable - usually (80%) high, sometimes low  
+6: unpredictable - random uniform distribution  
 
 Trigger Modifiers  
 Add 0: Fixation cross  
